@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         
         if tapCount >= 5{
             myLabel.text = "END"
+            
         }
     }
     
